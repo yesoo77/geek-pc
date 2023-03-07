@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 //导入antd的全局样式
-import 'antd/dist/antd.css'
+import 'antd/dist/antd.min.css'
 //自己的全局样式
 import './index.css'
 import App from './App'
